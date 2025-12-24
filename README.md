@@ -1,7 +1,9 @@
 # Acme_Pipe
+
 1. Project Overview
 
-This is a production-grade application built for Acme Pipe Industries. Unlike a standard academic project, this software is designed for real-world deployment on factory floors and field sites.
+This is a production-grade application built for Acme Pipe Industries. Unlike a standard academic project, this software
+is designed for real-world deployment on factory floors and field sites.
 
     Primary Target: Android Mobile (Priority for portability).
 
@@ -28,10 +30,10 @@ The application utilizes a high-contrast, modern industrial color palette.
     Tertiary (Grey): Secondary buttons and text fields.
 
 4. Core Features
-Module	Description
-Calculator	Industry-specific tools for pipe measurements, weights, and pressure ratings.
-Client Data	A CRM-style interface to manage customer contact info and history.
-Work Order	Digital forms for creating, tracking, and updating active industrial jobs.
+   Module Description
+   Calculator Industry-specific tools for pipe measurements, weights, and pressure ratings.
+   Client Data A CRM-style interface to manage customer contact info and history.
+   Work Order Digital forms for creating, tracking, and updating active industrial jobs.
 5. Development Philosophy & Standards
 
 To ensure this app is "Job Ready" and "Production Ready," we adhere to the following:
