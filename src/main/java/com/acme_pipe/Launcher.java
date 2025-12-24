@@ -1,4 +1,4 @@
-package application.acme_pipe;
+package com.acme_pipe;
 
 import javafx.application.Application;
 

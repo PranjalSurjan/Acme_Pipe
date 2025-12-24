@@ -3,6 +3,6 @@ module ca.senecacollege.application.acme_pipe {
     requires javafx.fxml;
 
 
-    opens application.acme_pipe to javafx.fxml;
-    exports application.acme_pipe;
+    opens com.acme_pipe to javafx.fxml;
+    exports com.acme_pipe;
 }

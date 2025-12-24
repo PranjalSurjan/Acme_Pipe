@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ca.senecacollege.application.acme_pipe/application.acme_pipe.HelloApplication
+                                ca.senecacollege.application.acme_pipe/com.acme_pipe.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
