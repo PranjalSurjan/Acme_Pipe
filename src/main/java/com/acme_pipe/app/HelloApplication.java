@@ -1,4 +1,4 @@
-package com.acme_pipe;
+package com.acme_pipe.app;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package com.acme_pipe;
+package com.acme_pipe.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -5,4 +5,8 @@ module ca.senecacollege.application.acme_pipe {
 
     opens com.acme_pipe to javafx.fxml;
     exports com.acme_pipe;
+    exports com.acme_pipe.app;
+    opens com.acme_pipe.app to javafx.fxml;
+    exports com.acme_pipe.controllers;
+    opens com.acme_pipe.controllers to javafx.fxml;
 }
