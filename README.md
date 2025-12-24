@@ -30,10 +30,12 @@ The application utilizes a high-contrast, modern industrial color palette.
     Tertiary (Grey): Secondary buttons and text fields.
 
 4. Core Features
-   Module Description
-   Calculator Industry-specific tools for pipe measurements, weights, and pressure ratings.
-   Client Data A CRM-style interface to manage customer contact info and history.
-   Work Order Digital forms for creating, tracking, and updating active industrial jobs.
+   
+       Module Description
+       Calculator Industry-specific tools for pipe measurements, weights, and pressure ratings.
+       Client Data A CRM-style interface to manage customer contact info and history.
+       Work Order Digital forms for creating, tracking, and updating active industrial jobs.
+   
 5. Development Philosophy & Standards
 
 To ensure this app is "Job Ready" and "Production Ready," we adhere to the following:
@@ -46,7 +48,7 @@ To ensure this app is "Job Ready" and "Production Ready," we adhere to the follo
 
     User-Centric Design: Features are prioritized based on direct feedback from the end-user (Acme Pipe Industries staff).
 
-5. System Logic & Integration
+6. System Logic & Integration
 
 To maximize efficiency for Acme Pipe Industries, the modules are interconnected rather than standing as isolated tools:
 
@@ -58,7 +60,7 @@ To maximize efficiency for Acme Pipe Industries, the modules are interconnected 
 
     Exportability: Work Orders are designed to be generated in a printable format (PDF) for physical record-keeping and client delivery.
 
-6. Development Strategy
+7. Development Strategy
 
 This project follows an iterative, industry-standard development cycle:
 
